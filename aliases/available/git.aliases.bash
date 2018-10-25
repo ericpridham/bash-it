@@ -2,6 +2,7 @@ cite 'about-alias'
 about-alias 'common git abbreviations'
 
 # Aliases
+alias agit='alias|grep git'
 alias gcl='git clone'
 alias ga='git add'
 alias grm='git rm'
